@@ -1,0 +1,74 @@
+/* This is the css page */
+
+body {
+	margin: 0;
+	padding: 0;
+
+}
+
+h1 {
+
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+	font-family: 'Indie Flower', cursive;
+	font-size: 4em;
+	text-align: center;
+	background-color:  #ff0000; /* red */
+	color: dodgerblue;
+
+}
+
+#myCanvasDiv{
+	width: 100%;
+    text-align: center;
+
+}
+
+#myCanvas {
+	display: block;
+	background-color:  #ffe6b3; /* playful orange */
+	border: 2px solid #4d0099;  /* purple */
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	border: 2px solid #4d0099;  /* purple */
+
+}
+
+#menuBar{
+	width: 100%;
+	height: 48px;
+    margin: 0;
+    padding: 0;
+    background-color: #4d0099;
+
+}
+
+.menuItem {
+  	font-family: 'Indie Flower', cursive;
+	font-size: 1.5em;
+    background-color: #4d0099;
+    color: #ffe6b3;
+    float: left;
+    width: 33%;
+    margin:0;
+    padding: 0;
+    text-align: center;
+    border: 2px solid #4d0099;
+}
+
+#scoreBox{
+    border: 2px solid #4d0099;
+    /* background-color: white; */
+    color: red;
+
+}
+
+#myCanvasDiv{
+	margin: 0;
+	padding: 0;
+
+
+}
+
